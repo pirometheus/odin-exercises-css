@@ -1,0 +1,18 @@
+.oddnumber {
+    background-color: lightpink;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+#numbertwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.f-size {
+    font-size: 24px;
+}
+
+#numberfour {
+    background-color: lightgreen;
+    font-weight: bold;
+}
